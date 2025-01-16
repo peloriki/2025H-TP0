@@ -6,4 +6,5 @@ print ( math.pi * rayon ** 2)
 
 #TODO Ajoutez une ligne qui affichera votre nom et prénom à la fin
 print ('ricardo acuna')
+print ('fin du programme')
 
